@@ -151,10 +151,10 @@
 	"在我周游世界的所有时间里，我遇到了许多美丽的女人。 如果不将它们包含在我的遗嘱中，我将是无情的。",
 	
 	"To my son, \\N[1], I leave you my harem of beauties to add to your own collection.":
-	"致我的儿子，亨利，我将我的后宫美女留给您，以添加到您自己的收藏中。",
+	"致我的儿子，亨利，我将我的后宫美女留给你，以添加到你自己的收藏中。",
 	
 	"To all my rivals, I have included a photograph of my giant cock. Suck it!":
-	"对于我的所有竞争对手，我已经附上了一张我的大公鸡的照片。 吸它！",
+	"对于我的所有竞争对手，我已经附上了一张我的巨屌的照片。 吸它！",
 	
 	"Sincerely, Idaho Johnson":
 	"真挚的，爱达荷·约翰逊"
@@ -165,7 +165,7 @@
 	"重建工作仍在继续",
 
 	"As the one year anniversary approaches of Hurricane Evelyn surrounding cities still struggle to overcome the damage.":
-	"随着飓风伊夫林一周年的临近，周边城市仍在努力克服破坏。",
+	"距离飓风伊夫林的过境已经快一周年了，周边城市仍在努力重建。",
 	
 	"Luckily Cape Vedra was spared from a direct hit.":
 	"幸运的是，Cape Vedra 没有受到直接打击。"
@@ -182,7 +182,7 @@
 	"过去几年我一直在寻找一种叫做灵魂水晶的东西。 我开始痴迷于寻找它，并花了很多钱来寻找它。",
 	
 	"I made many enemies on the way and I’ve acquired a lot of debts. I leave you this note because I do not expect to make it through the night. They are coming for the Soul Crystal. ":
-	"我在路上树了很多敌人，也欠了很多债。 我给你留了这张便条，因为我不希望熬夜。 他们是为了灵魂水晶而来。",
+	"我在路上树了很多敌人，也欠了很多债。 我给你留了这张便条，因为我不希望拖延任何时间。 他们是为了灵魂水晶而来。",
 	
 	"Yes \\N[1]. Your old man found the Soul Crystal! And I am leaving it to you.  ":
 	"是的 亨利。 你老爸找到了灵魂水晶！ 我把它留给你。",
@@ -200,7 +200,7 @@
 	"爸爸",
 	
 	"PS. I never got to bang Diana. She’s a tough nut to crack. ":
-	"PS. 我从来没有撞击过戴安娜。 她是一个难以破解的难题。"
+	"PS. 我从来没有上过戴安娜。 她是一个难以破解的难题。"
 },
 
 "Map021.json": {
@@ -222,10 +222,10 @@
 	"皮划艇技巧",
 	
 	"Here are some helpful tips to remember to keep you safe on the water...":
-	"这里有一些有用的提示，请记住，以确保您在水上安全......",
+	"这里有一些有用的提示，请记住，以确保你在水上安全......",
 	
 	"The three most important things you need to remember to bring is a whistle, life jacket, and paddle.":
-	"您需要记住携带的三件最重要的东西是哨子、救生衣和桨。",
+	"你需要记住携带的三件最重要的东西是哨子、救生衣和桨。",
 	
 	"Never paddle out to sea with a 15 knots or greater wind at your back.":
 	"切勿在背风为 15 节或更大的情况下划桨出海。",
